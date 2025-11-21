@@ -2,7 +2,7 @@
 terraform {
 
 provider {
-    region = "us-east-1b" 
+    region = "us-east-1b"
 }
 
 
